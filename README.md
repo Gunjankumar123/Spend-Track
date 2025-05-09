@@ -21,3 +21,6 @@ Multilingual-e5-small for generating high-quality embeddings, enabling accurate 
 Qwen/Qwen2.5-1.5B model (via Hugging Face) for conversational intelligence in answering user queries.
 
 This system improves efficiency by automating procurement analysis, reducing the need for manual data processing and supporting faster decision-making in procurement management.
+
+![api_out](https://github.com/user-attachments/assets/514cff90-1a45-407a-ba3d-5a917a91d086)
+
